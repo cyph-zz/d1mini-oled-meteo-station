@@ -99,6 +99,8 @@ and the name of the access point to join.
 
 ### Web dashboard
 
+<img src="screenshot-web.jpg" width="300" alt="Web dashboard showing temperature, humidity, pressure and history charts">
+
 Once connected to your WiFi network:
 
 - `http://meteo.local` — HTML page with the 3 current values (refreshed
